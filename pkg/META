@@ -1,5 +1,5 @@
 description = "QR codes for OCaml"
-version = "%%VERSION_NUM%%"
+version = "0.1.1~dune"
 requires = ""
 archive(byte) = "qrc.cma"
 archive(native) = "qrc.cmxa"

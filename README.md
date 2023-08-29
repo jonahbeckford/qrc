@@ -1,6 +1,6 @@
 qrc — QR code encoder for OCaml
 ===============================
-%%VERSION%%
+0.1.1~dune
 
 Qrc encodes your data into QR codes. It has built-in QR matrix
 renderers for SVG, ANSI terminal and text.

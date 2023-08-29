@@ -191,7 +191,7 @@ let cmd =
   in
   Term.(pure qrtrip $ encode $ format $ outf $ invert $ no_quiet_zone $
         version $ ec_level $ mask $ data),
-  Term.info "qrtrip" ~version:"%%VERSION%%" ~doc ~man ~exits
+  Term.info "qrtrip" ~version:"0.1.1~dune" ~doc ~man ~exits
 
 let () = Term.exit_status @@ Term.eval cmd
 
