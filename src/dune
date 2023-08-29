@@ -1,0 +1,4 @@
+(library
+ (public_name qrc)
+ (wrapped false)
+ (flags :standard -w -35))
