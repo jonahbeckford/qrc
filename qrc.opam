@@ -5,7 +5,6 @@ authors: ["The qrc programmers"]
 homepage: "https://github.com/jonahbeckford/qrc"
 doc: "https://erratique.ch/software/qrc/doc"
 license: "ISC"
-dev-repo: "git+https://erratique.ch/repos/qrc.git"
 bug-reports: "https://github.com/dbuenzli/qrc/issues"
 tags: [ "qr-code" "codec" "org:erratique" ]
 depends:
